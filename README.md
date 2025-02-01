@@ -1,8 +1,5 @@
 # 👋 ¡Hola! Soy Daniel Loaiza 👨‍💻
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=loaiza000)  
-![GitHub followers](https://img.shields.io/github/followers/loaiza000?style=social)
-
 ## 🚀 Acerca de mí:
 - 💼 **Backend Software Engineer** apasionado por convertir ideas en **proyectos robustos** y que no solo funcionan, sino que aguantan la presión cuando más se necesita. 🚀
 - 🌍 De Medellín, Colombia 🇨🇴.
