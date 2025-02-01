@@ -4,9 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/loaiza000?style=social)
 
 ## 🚀 Acerca de mí:
-- 💼 **Backend Software Engineer** con enfoque en **Node.js, Spring Boot, MongoDB y PostgreSQL**.
+- 💼 **Backend Software Engineer** apasionado por convertir ideas en **proyectos robustos** y que no solo funcionan, sino que aguantan la presión cuando más se necesita. 🚀
 - 🌍 De Medellín, Colombia 🇨🇴.
-- 🎮 Gamer a tiempo libre: **Forza 5, Fortnite, Warzone.**
 - 🚀 Actualmente aprendiendo **NestJS** y trabajando en proyectos robustos.
 
 ## 🛠️ Tecnologías que manejo:
