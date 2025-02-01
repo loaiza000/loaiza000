@@ -22,5 +22,5 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=tokyonight)
 
 ## 📫 ¡Conecta conmigo!
-- **Correo:** [tuemail@example.com](mailto:tuemail@example.com)
+- **Correo:** [danilofo09@hotmail.com](mailto:danilofo09@hotmail.com)
 - **LinkedIn:** [Daniel Loaiza](https://linkedin.com/in/dloaiza-dev)
