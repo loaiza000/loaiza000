@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel Loaiza 👨‍💻
 
-<!--
-**loaiza000/loaiza000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=loaiza000)  
+![GitHub followers](https://img.shields.io/github/followers/loaiza000?style=social)
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mí:
+- 💼 **Backend Software Engineer** con enfoque en **Node.js, Spring Boot, MongoDB y PostgreSQL**.
+- 🌍 De Medellín, Colombia 🇨🇴.
+- 🎮 Gamer a tiempo libre: **Forza 5, Fortnite, Warzone.**
+- 🚀 Actualmente aprendiendo **NestJS** y trabajando en proyectos robustos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que manejo:
+- **Lenguajes:** Java, JavaScript, TypeScript.
+- **Frameworks Backend:** Spring Boot, Node.js, Express, NestJS.
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB.
+- **DevOps:** Docker, Kubernetes.
+- **Infraestructura:** AWS (EC2, S3).
+
+## 📈 Mis estadísticas:
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=tokyonight)
+
+## 📫 ¡Conecta conmigo!
+- **Correo:** [tuemail@example.com](mailto:tuemail@example.com)
+- **LinkedIn:** [Daniel Loaiza](https://linkedin.com/in/dloaiza-dev)
