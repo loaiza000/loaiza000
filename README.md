@@ -3,7 +3,7 @@
 ## 🚀 Acerca de mí:
 - 💼 **Backend Software Engineer** apasionado por convertir ideas en **proyectos robustos** y que no solo funcionan, sino que aguantan la presión cuando más se necesita. 🚀
 - 🌍 De Medellín, Colombia 🇨🇴.
-- 🚀 Actualmente aprendiendo **NestJS** y trabajando en proyectos robustos.
+
 
 ## 🛠️ Tecnologías que manejo:
 - **Lenguajes:** Java, JavaScript, TypeScript.
