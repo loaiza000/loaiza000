@@ -5,7 +5,7 @@
 - 🌍 De Medellín, Colombia 🇨🇴.
 
 
-## 🛠️ Tecnologías que manejo:
+## 🛠️ Tecnologías:
 - **Lenguajes:** Java, JavaScript, TypeScript.
 - **Frameworks Backend:** Spring Boot, Node.js, Express, NestJS.
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB.
