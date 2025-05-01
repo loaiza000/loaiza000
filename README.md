@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniel Loaiza 👨‍💻
+# 👋 ¡Hola! Soy Loaiza 👨‍💻
 
 ## 🚀 Acerca de mí:
 - 💼 **Backend Software Engineer** apasionado por convertir ideas en **proyectos robustos** y que no solo funcionan, sino que aguantan la presión cuando más se necesita. 🚀
