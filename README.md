@@ -16,7 +16,3 @@
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=tokyonight)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=tokyonight)
-
-## 📫 ¡Conecta conmigo!
-- **Correo:** [danilofo09@hotmail.com](mailto:danilofo09@hotmail.com)
-- **LinkedIn:** [Daniel Loaiza](https://linkedin.com/in/dloaiza-dev)
