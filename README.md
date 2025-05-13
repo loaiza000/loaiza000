@@ -1,18 +1,20 @@
+# Daniel Loaiza – Full Stack Developer
 
+Soy un desarrollador Full Stack con especialización en backend, apasionado por construir sistemas escalables, seguros y mantenibles. Cuento con experiencia en el diseño e implementación de arquitecturas robustas, aplicando buenas prácticas, patrones de diseño y metodologías ágiles para entregar soluciones de alto impacto.
 
-## 🚀 Acerca de mí:
-- 💼 **Backend Software Engineer** apasionado por convertir ideas en **proyectos robustos** y que no solo funcionan, sino que aguantan la presión cuando más se necesita. 🚀
-- 🌍 De Medellín, Colombia 🇨🇴.
+## 🧩 Stack Tecnológico
 
+- **Lenguajes:** Java, JavaScript  
+- **Backend:** Spring Boot, Node.js, Express  
+- **Frontend:** React  
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
+- **DevOps / Infraestructura:** Docker, Kubernetes, AWS (EC2, S3)  
+- **Otros:** Maven, Gradle, Git
 
-## 🛠️ Tecnologías:
-- **Lenguajes:** Java, JavaScript, TypeScript.
-- **Frameworks Backend:** Spring Boot, Node.js, Express, NestJS.
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB.
-- **DevOps:** Docker, Kubernetes.
-- **Infraestructura:** AWS (EC2, S3).
+## 🛠️ Enfoque Profesional
 
-## 📈 Mis estadísticas:
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=tokyonight)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=tokyonight)
+- Desarrollo de microservicios y APIs REST seguras y eficientes  
+- Integración de sistemas con autenticación JWT y OAuth2  
+- Optimización de rendimiento y consumo de recursos  
+- Automatización de procesos e implementación CI/CD  
+- Experiencia con contenedores y despliegue en la nube
