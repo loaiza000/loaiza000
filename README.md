@@ -1,35 +1,27 @@
-<h1 align="center">Daniel Loaiza</h1>
-<h3 align="center">Full Stack Developer | Backend Specialist</h3>
+<h1 align="center">Hi, I'm Daniel Loaiza 👨‍💻</h1>
+<p align="center">
+  <strong>Full Stack Developer | Backend Specialist</strong>
+</p>
 
 <p align="center">
-  <b>Java</b> &bull; <b>Spring Boot</b> &bull; <b>Maven</b> &bull; <b>Gradle</b> &bull; <b>Node.js</b> &bull; <b>Express.js</b><br>
-  <b>React</b> &bull; <b>JavaScript</b> &bull; <b>MongoDB</b> &bull; <b>MySQL</b> &bull; <b>PostgreSQL</b><br>
-  <b>Docker</b> &bull; <b>Kubernetes</b> &bull; <b>Microservices</b> &bull; <b>AWS</b> &bull; <b>Git</b> &bull; <b>Vercel</b>
+  Java · Spring Boot · Maven · Gradle · Node.js · Express.js · React · JavaScript · MongoDB · MySQL · PostgreSQL · Docker · Kubernetes · Microservices · AWS · Git · Vercel
 </p>
 
 ---
 
-### 🚀 Sobre mí
-Soy un desarrollador Full Stack con fuerte enfoque en backend. Apasionado por construir arquitecturas robustas, seguras y escalables, aplicando buenas prácticas y automatizando procesos para maximizar el rendimiento y la mantenibilidad del software.
+### 🚀 About Me
+
+- 🔧 Passionate about building scalable, secure, and maintainable systems  
+- 🔁 Experienced in designing and implementing robust backend architectures  
+- ☁️ Skilled in deploying and managing cloud-native apps with Docker, Kubernetes & AWS  
+- 🔐 Advocate for clean code, secure APIs and automation through CI/CD  
+- 📈 Focused on performance optimization and resource efficiency  
 
 ---
 
-### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🛠️ Actualmente trabajando en:
-- Desarrollo de APIs REST seguras con Spring Boot y Node.js
-- Integración de sistemas con JWT y OAuth2
-- Despliegues con Docker, Kubernetes y AWS
-- Automatización de pipelines CI/CD
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <i>"Clean code, high impact."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=dark" alt="Daniel's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=dark" alt="Top Langs" height="160"/>
 </p>
