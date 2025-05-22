@@ -1,20 +1,19 @@
-# Daniel Loaiza – Full Stack Developer
+<h1 align="center">Hi, I'm Daniel Loaiza 👨‍💻</h1>
+<h3 align="center">Full Stack Developer - Focused on Backend</h3>
 
-Soy un desarrollador Full Stack con especialización en backend, apasionado por construir sistemas escalables, seguros y mantenibles. Cuento con experiencia en el diseño e implementación de arquitecturas robustas, aplicando buenas prácticas, patrones de diseño y metodologías ágiles para entregar soluciones de alto impacto.
+🔧 **Tech Stack**  
+- 💻 Java, JavaScript | Spring Boot, Node.js, Express  
+- 🛠️ MySQL, PostgreSQL, MongoDB  
+- ☁️ Docker, Kubernetes, AWS  
+- ⚙️ Git, Maven, CI/CD  
 
-## 🧩 Stack Tecnológico
+📈 **Stats**
 
-- **Lenguajes:** Java, JavaScript  
-- **Backend:** Spring Boot, Node.js, Express  
-- **Frontend:** React  
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
-- **DevOps / Infraestructura:** Docker, Kubernetes, AWS (EC2, S3)  
-- **Otros:** Maven, Gradle, Git
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=github_dark" height="150"/>
+</p>
 
-## 🛠️ Enfoque Profesional
+---
 
-- Desarrollo de microservicios y APIs REST seguras y eficientes  
-- Integración de sistemas con autenticación JWT y OAuth2  
-- Optimización de rendimiento y consumo de recursos  
-- Automatización de procesos e implementación CI/CD  
-- Experiencia con contenedores y despliegue en la nube
+🚀 Always learning, building and improving.
