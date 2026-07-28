@@ -5,10 +5,6 @@
 <h1 align="center">Hello dude!</h1>
 
 <p align="center">
-  <strong>Daniel Loaiza</strong>
-</p>
-
-<p align="center">
   Full Stack Engineer focused on Backend, Cloud & Software Architecture.
 </p>
 
@@ -41,6 +37,6 @@
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
