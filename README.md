@@ -37,6 +37,5 @@
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loaiza000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaiza000&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,cs,dotnet,flutter,postgres,mongodb,mysql,docker,kubernetes,aws,git&perline=8" />
 </p>
