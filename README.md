@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  Java · TypeScript · JavaScript
+  TypeScript · JavaScript
 </p>
 
 <p align="center">
-  Spring Boot · Node.js · Express.js · React
+  Node.js · Express.js · React
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  Docker · Kubernetes · AWS · Git · Maven · Gradle
+  Docker · Kubernetes · AWS · Git 
 </p>
 
 ---
@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,cs,dotnet,flutter,postgres,mongodb,mysql,docker,kubernetes,aws,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,ts,js,postgres,mongodb,mysql,docker,kubernetes,aws,git&perline=6" />
 </p>
